@@ -3,7 +3,7 @@
 This repository contains the data and models published in the following paper:
 
 **"Potential of asymmetric strip tension to control the surface roughness in cold rolling"**  
-Christopher Schulte, Xinyang Li, Mengmeng Zhang, David Bailly, Sebastian Stemmler, Heike Vallery  
+Christopher Schulte, Xinyang Li, Mengmeng Zhang, David Bailly, Heike Vallery, Sebastian Stemmler
 *Journal of Manufacturing Processes*, 2025
 
 [![DOI](https://)]() 
@@ -63,7 +63,7 @@ If you use this data or model in your research, please cite:
 ```bibtex
 @article{schulte2025roughness,
   title={Potential of asymmetric strip tension to control the surface roughness in cold rolling},
-  author={Schulte, Christopher and Li, Xinyang and Zhang, Mengmeng and Bailly, David and Stemmler, Sebastian and Vallery, Heike},
+  author={Schulte, Christopher and Li, Xinyang and Zhang, Mengmeng and Bailly, David and Vallery, Heike and Stemmler, Sebastian},
   journal={Journal of Manufacturing Processes},
   year={2025},
   publisher={Elsevier}
@@ -76,8 +76,8 @@ If you use this data or model in your research, please cite:
 - **Xinyang Li** - [ORCID: 0000-0001-7886-5758](https://orcid.org/0000-0001-7886-5758)
 - **Mengmeng Zhang** - [ORCID: 0009-0005-3187-3992](https://orcid.org/0009-0005-3187-3992)
 - **David Bailly** - [ORCID: 0000-0001-8060-4637](https://orcid.org/0000-0001-8060-4637)
-- **Sebastian Stemmler** - [ORCID: 0009-0003-2079-3431](https://orcid.org/0009-0003-2079-3431)
 - **Heike Vallery** - [ORCID: 0000-0002-0305-398X](https://orcid.org/0000-0002-0305-398X)
+- **Sebastian Stemmler** - [ORCID: 0009-0003-2079-3431](https://orcid.org/0009-0003-2079-3431)
 
 ## License
 
