@@ -77,7 +77,7 @@ If you use this data or model in your research, please cite:
 - **Mengmeng Zhang** - [ORCID: 0009-0005-3187-3992](https://orcid.org/0009-0005-3187-3992)
 - **David Bailly** - [ORCID: 0000-0001-8060-4637](https://orcid.org/0000-0001-8060-4637)
 - **Sebastian Stemmler** - [ORCID: 0009-0003-2079-3431](https://orcid.org/0009-0003-2079-3431)
-- **Heike Vallery**
+- **Heike Vallery** - [ORCID: 0000-0002-0305-398X](https://orcid.org/0000-0002-0305-398X)
 
 ## License
 
