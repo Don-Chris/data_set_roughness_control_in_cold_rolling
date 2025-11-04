@@ -6,7 +6,7 @@ This repository contains the data and models published in the following paper:
 Christopher Schulte, Xinyang Li, Mengmeng Zhang, David Bailly, Heike Vallery, Sebastian Stemmler
 *Journal of Manufacturing Processes*, 2025
 
-[![DOI](https://)]() 
+[![DOI](https://doi.org/10.1016/j.jmapro.2025.10.081)](https://doi.org/10.1016/j.jmapro.2025.10.081) 
 
 ## Overview
 
